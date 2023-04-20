@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.config
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
+C:\Users\DELL\Desktop\.Net Projects\Tic-Tac-Toe Game\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
